@@ -70,6 +70,8 @@ function onPlayerReady(event) {
       switchChannel(1);
     } else if (event.key == "ArrowDown") {
       switchChannel(-1);
+    } else if (event.key == "m") {
+      toggleMute();
     }
   });
 }
