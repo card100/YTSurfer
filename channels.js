@@ -7,6 +7,7 @@ const channels = {
     { id: "wneX5-M07TA", duration: 1715 },
     { id: "4iQmPv_dTI0", duration: 1604 },
     { id: "XpBRuwK5aN4", duration: 1860 },
+    { id: "Rx-vFMK3qMc", duration: 553 },
   ],
   BackbeatHop: [
     { id: "QrR_gm6RqCo", duration: 1029 },
