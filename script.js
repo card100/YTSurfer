@@ -1,5 +1,5 @@
 const urlParams = new URLSearchParams(window.location.search);
-let currentChannel = urlParams.get("channel") || "ScienceAndTech";
+let currentChannel = urlParams.get("channel") || "Backbeat";
 let channelNameDisplay = document.getElementById("channel-name-display");
 let videoIdDisplay = document.getElementById("video-id-display");
 let player;
